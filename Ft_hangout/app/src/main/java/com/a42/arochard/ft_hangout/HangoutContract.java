@@ -22,7 +22,7 @@ public final class HangoutContract {
         public static final String COLUMN_PHONE = "phone";
         public static final String COLUMN_ADRESS = "adress";
         public static final String COLUMN_MAIL = "mail";
-        public static final String COLUMN_PATH_IMG = "imgPath"
+        public static final String COLUMN_PATH_IMG = "imgPath";
 
     }
 
