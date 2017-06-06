@@ -20,7 +20,7 @@
 
             <android.support.design.widget.TabItem
                 android:id="@+id/tab1"
-                android:icon="@drawable/tab_contacts_selector"
+                android:icon="@drawable/tab_contact_selector"
                 style="@style/tab_item"
                 android:text="@string/tab3" />
 

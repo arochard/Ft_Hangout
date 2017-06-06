@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Hangout</string>
+    <string name="app_name">FT_Hangout</string>
 
     <string name="tab1">CALLS</string>
     <string name="tab2">CHATS</string>
